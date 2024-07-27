@@ -1,1 +1,1 @@
-# this project introduces js ES6 2015
+# 0x00. ES6 Basics
