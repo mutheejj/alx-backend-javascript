@@ -6,4 +6,3 @@ console.log(map);
 
 updateUniqueItems(map)
 console.log(map);
-
